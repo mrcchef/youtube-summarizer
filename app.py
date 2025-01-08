@@ -15,7 +15,7 @@ class SummarizeResponse(BaseModel):
     summary: str
 
 # OpenRouter API configuration
-OPENROUTER_API_KEY = "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"  # Replace with your API key
+OPENROUTER_API_KEY = ""  # Replace with your API key
 OPENROUTER_API_URL = "https://openrouter.ai/api/v1"
 
 
